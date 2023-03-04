@@ -1,16 +1,9 @@
 # expenses_manager_app
 
-A new Flutter project.
+A Flutter App with which you can track your daily expenditures. Also known as money manager that helps to keep an accurate record of your money inflow and outflow.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image description](assets/exp1.png)
+![image description](assets/exp2.png)
+![image description](assets/exp3.png)
