@@ -4,5 +4,7 @@ A Flutter App with which you can track your daily expenditures. Also known as mo
 
 
 <img src="assets/exp1.png" width="300" height="600" />
+
 <img src="assets/exp2.png" width="300" height="600" />
+
 <img src="assets/exp3.png" width="300" height="600" />
